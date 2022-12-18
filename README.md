@@ -2,7 +2,7 @@
 **victordgr8t/victordgr8t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Hi I'm Nnamdi 👋  A strong IT professional with a Computer Engineering degree who is passionate about providing technical
-solutions to solve world problems. I achieve this through working with the industry best practices, critical thinking and resourcefulnessto solve problems. I love being part of a team that designs, builds, maintains and provide solutions to clients using Cloud services.
+solutions to solve world problems. I achieve this through working with the industry best practices, critical thinking and resourcefulness to solve problems. I love being part of a team that designs, builds, maintains and provide solutions to clients using Cloud services.
 
 <img src="https://raw.githubusercontent.com/victordgr8t/victordgr8t/main/Banner.png" width="750px">
 
