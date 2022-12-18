@@ -3,7 +3,7 @@
 
 Hi I'm Nnamdi 👋 I am a Cloud Solutions Architect who is passionate about cloud stuff :), DevOps, Python and love learning new technologies.
 
-<img src="hhttps://raw.githubusercontent.com/victordgr8t/victordgr8t/main/Banner.png" width="415px">
+<img src="https://raw.githubusercontent.com/victordgr8t/victordgr8t/main/Banner.png" width="415px">
 
 [![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nd_gr8t)
 [![View Instagram](https://img.shields.io/badge/view-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ndthegr8/)
