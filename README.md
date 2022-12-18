@@ -1,8 +1,7 @@
 <!--
-**victordgr8t/victordgr8t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**victordgr8t/victordgr8t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->s
 
 Hi I'm Nnamdi 👋 I am a Cloud Solutions Architect who is passionate about cloud stuff :), DevOps, Python and love learning new technologies.
-
 
 <img src="hhttps://raw.githubusercontent.com/victordgr8t/victordgr8t/main/Banner.png" width="415px">
 
