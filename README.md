@@ -1,7 +1,7 @@
 <!--
 **victordgr8t/victordgr8t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi I'm Nnamdi 👋 I am a Cloud Solutions Architect who is passionate about cloud stuff :), DevOps, Python and love learning new technologies. 
+Hi I'm Nnamdi 👋 I am a Cloud Solutions Architect who is passionate about cloud stuff :), DevOps, Python and love learning new technologies.
 
 /Users/mac/Desktop/victordgr8t/Corporate LinkedIn Banner.png
 <img src="Corporate LinkedIn Banner.png" alt="Description of image"> width="415px">
