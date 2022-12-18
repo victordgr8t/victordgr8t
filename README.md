@@ -1,5 +1,5 @@
 <!--
-**victordgr8t/victordgr8t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->s
+**victordgr8t/victordgr8t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Hi I'm Nnamdi 👋 I am a Cloud Solutions Architect who is passionate about cloud stuff :), DevOps, Python and love learning new technologies.
 
