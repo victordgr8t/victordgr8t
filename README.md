@@ -8,7 +8,7 @@ A strong IT professional with a Computer Engineering degree who is passionate ab
 solutions to solve world problems. I achieve this through working with the industry best practices, critical thinking 
 and resourcefulness to solve problems. I love being part of a team that designs, builds, maintains and provide solutions 
 to clients using Cloud services.
- <div>
+ <div> <div>
       
      
       
