@@ -3,7 +3,8 @@
 
 Hi I'm Nnamdi 👋  
 
-<img src="https://raw.githubusercontent.com/victordgr8t/victordgr8t/main/Banner.png" width="900px">
+
+![BLack Minimalist Corporate Staff Identity LinkedIn Banner](https://user-images.githubusercontent.com/63635704/222960902-a8e47ade-25e0-4696-9287-0dd074cd2177.png)
 A strong IT professional with a Computer Engineering degree who is passionate about providing technical
 solutions to solve world problems. I achieve this through working with the industry best practices, critical thinking 
 and resourcefulness to solve problems. I love being part of a team that designs, builds, maintains and provide solutions 
