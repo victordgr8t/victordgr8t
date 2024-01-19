@@ -5,10 +5,7 @@ Hi I'm Victor 👋
 
 
 ![BLack Minimalist Corporate Staff Identity LinkedIn Banner](https://user-images.githubusercontent.com/63635704/222960902-a8e47ade-25e0-4696-9287-0dd074cd2177.png)
-A strong IT professional with a Computer Engineering degree who is passionate about providing technical
-solutions to solve world problems. I achieve this through working with the industry best practices, critical thinking 
-and resourcefulness to solve problems. I love being part of a team that designs, builds, maintains and provide solutions 
-to clients using Cloud services.
+An adept IT specialist with a background in Computer Engineering, my passion lies in harnessing technology to tackle global issues. My methodology combines a strict adherence to the highest industry standards, thoughtful critical thinking, and inventive resourcefulness in problem-solving. I thrive in collaborative environments where I can contribute to the creation, maintenance, and delivery of client-centric solutions, particularly through the innovative use of Cloud technologies
  <div> <div>
       
      
