@@ -1,7 +1,7 @@
 <!--
 **victordgr8t/victordgr8t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Hi I'm Nnamdi 👋  
+Hi I'm Victor 👋  
 
 
 ![BLack Minimalist Corporate Staff Identity LinkedIn Banner](https://user-images.githubusercontent.com/63635704/222960902-a8e47ade-25e0-4696-9287-0dd074cd2177.png)
